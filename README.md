@@ -16,5 +16,5 @@ To delete a task, click the "Delete" button next to the task you want to delete.
 - HTML
 - CSS
 - Javascript
-## You can check out a demo [here](  https://alda-kst.github.io/To-Do-List/).
+## You can check out a demo [here] (  https://alda-kst.github.io/To-Do-List/).
 
