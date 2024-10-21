@@ -11,7 +11,7 @@ To update a task, click on the task you want to update. A modal window will open
 ### 2. Completing a task
 To mark a task as complete, simply click the checkbox next to the task description. The task will be crossed out to indicate that it has been completed.
 ### 3. Deleting a task
-To delete a task, click the "Delete" button next to the task you want to delete. This will remove the task from the To-Do-list.
+To delete a task, click the "Delete" button next to the task you want to delete. This will remove the task from the To-Do-List.
 ## Requirements
 - HTML
 - CSS
